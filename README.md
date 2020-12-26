@@ -7,6 +7,8 @@ This Software can be used when there are a lot of <b>files</b> with different ex
 
 ## Project Structure: 
 
+- #### Application file or Executable file: File Sorting App.exe
+
 - #### Source code file: File_sorting_app.py
 
 - #### Programming language: Python
