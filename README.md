@@ -20,7 +20,7 @@ This Software can be used when there are a lot of <b>files</b> with different ex
 ## Steps to use this software:
 
 
-1. First clone this repository download the .zip format.
+1. First clone this repository or download the .zip format.
 
 2. Open the Application file / executable file named 'File Sorting App.exe'
 
